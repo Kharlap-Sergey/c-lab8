@@ -1,6 +1,10 @@
-﻿// task2.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+﻿// Лабораторная работа № 8. Структуры
 
+// Задание 4
+
+// Вариант 3.
+
+// Студента группы 10701219 Харлапа Сергея Александровича
 #include <iostream>
 #include <random>
 #include <time.h>
